@@ -1,0 +1,8 @@
+{
+  "id": "docker-nemoclaw",
+  "version": "1.0.0",
+  "name": "Docker with NemoClaw",
+  "description": "Node.js 22 environment with Docker daemon access and NVIDIA NemoClaw CLI pre-installed",
+  "options": {},
+  "platforms": ["Any"]
+}
